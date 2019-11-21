@@ -9,7 +9,7 @@ def meow
 
 end 
 
-maru = Cat.new
-maru.name = "Maru"
+# maru = Cat.new
+# maru.name = "Maru"
  
-puts maru.name
+# puts maru.name
